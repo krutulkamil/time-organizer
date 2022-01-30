@@ -1,5 +1,5 @@
 {
-  "events" : [
+  "events": [
     {
       "id": 1,
       "title": "Jogging",
@@ -11,6 +11,12 @@
       "title": "Learning TypeScript",
       "dateStart": "2022-01-03T14:59:20.843Z",
       "dateEnd": "2022-01-03T15:59:20.843Z"
+    },
+    {
+      "title": "No name",
+      "dateStart": "2022-01-30T20:29:44.485Z",
+      "dateEnd": "2022-01-30T20:29:48.891Z",
+      "id": 3
     }
   ]
 }
